@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Muthuram2005
 - 👀 I’m interested in Artificial intelligence and Machine learning 
 - 🌱 I’m currently learning python and c
+-  🌱 I’m currently learning java and c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
