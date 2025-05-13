@@ -3,10 +3,9 @@
 
 - 👋 Hi, I’m @Muthuram2005
 - 👀 I’m interested in Artificial intelligence and Machine learning 
-- 🌱 I’m currently learning python and c
--  🌱 I’m currently learning java and c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python, c, java and c++.
+- 🔭 Passionate on Machine Learning, Data Analytics and Full Stack.
+- 💬 Ask me about Data and ML
 
 <!---
 Muthuram2005/Muthuram2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
